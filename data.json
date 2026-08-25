@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T12:26:20.236766+07:00",
+  "last_updated": "2026-08-25T14:38:51.002657+07:00",
   "usdidr": {
     "value": 17713,
     "unit": "IDR",
@@ -14,9 +14,9 @@
     "source": "yahoo_finance"
   },
   "crude_oil": {
-    "value": 84.98,
+    "value": 84.49,
     "previous_close": 87.83,
-    "change_pct": -3.24,
+    "change_pct": -3.8,
     "currency": "USD",
     "source": "yahoo_finance",
     "type": "WTI Crude Oil Futures",
@@ -29,8 +29,8 @@
     "usdidr": "ok",
     "ihsg": "ok",
     "crude_oil": "ok",
-    "cds_5y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/cds-country/indonesia/",
-    "bond_1y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/country/indonesia/",
-    "bond_5y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/country/indonesia/"
+    "cds_5y": "error: 404 Client Error: Not Found for url: https://www.worldgovernmentbonds.com/cds-country/indonesia/",
+    "bond_1y": "error: Tidak menemukan baris yield 1Y/5Y (struktur tabel mungkin berubah)",
+    "bond_5y": "error: Tidak menemukan baris yield 1Y/5Y (struktur tabel mungkin berubah)"
   }
 }
