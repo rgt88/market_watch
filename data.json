@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T12:35:29.182259+07:00",
+  "last_updated": "2026-09-07T20:12:58.973026+07:00",
   "usdidr": {
     "value": 17636,
     "unit": "IDR",
@@ -7,9 +7,9 @@
     "source": "frankfurter.dev"
   },
   "ihsg": {
-    "value": 6628.19,
+    "value": 6619.67,
     "previous_close": 6599.943,
-    "change_pct": 0.43,
+    "change_pct": 0.3,
     "currency": "IDR",
     "source": "yahoo_finance"
   },
