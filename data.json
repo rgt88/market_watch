@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-21T19:38:45.525069+07:00",
+  "last_updated": "2026-10-22T12:39:49.577787+07:00",
   "usdidr": {
-    "value": 17986,
+    "value": 18043,
     "unit": "IDR",
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "source": "frankfurter.dev"
   },
   "ihsg": {
-    "value": 5328.36,
-    "previous_close": 5863.78,
-    "change_pct": -9.13,
+    "value": 5419.0,
+    "previous_close": 5185.105,
+    "change_pct": 4.51,
     "currency": "IDR",
     "source": "yahoo_finance"
   },
   "crude_oil": {
-    "value": 97.94,
-    "previous_close": 101.41,
-    "change_pct": -3.42,
+    "value": 98.93,
+    "previous_close": 103.66,
+    "change_pct": -4.56,
     "currency": "USD",
     "source": "yahoo_finance",
     "type": "WTI Crude Oil Futures",
@@ -26,11 +26,11 @@
   "bond_1y": null,
   "bond_5y": null,
   "last_run_status": {
-    "usdidr": "error: HTTPSConnectionPool(host='api.frankfurter.dev', port=443): Read timed out. (read timeout=15)",
+    "usdidr": "ok",
     "ihsg": "ok",
     "crude_oil": "ok",
-    "cds_5y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/cds-country/indonesia/",
-    "bond_1y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/country/indonesia/",
-    "bond_5y": "error: 503 Server Error: Backend fetch failed for url: https://www.worldgovernmentbonds.com/country/indonesia/"
+    "cds_5y": "error: 404 Client Error: Not Found for url: https://www.worldgovernmentbonds.com/cds-country/indonesia/",
+    "bond_1y": "error: Tidak menemukan baris yield 1Y/5Y (struktur tabel mungkin berubah)",
+    "bond_5y": "error: Tidak menemukan baris yield 1Y/5Y (struktur tabel mungkin berubah)"
   }
 }
