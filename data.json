@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T20:42:04.439712+07:00",
+  "last_updated": "2026-11-08T13:52:44.255951+07:00",
   "usdidr": {
     "value": 18100,
     "unit": "IDR",
@@ -15,8 +15,8 @@
   },
   "crude_oil": {
     "value": 90.83,
-    "previous_close": 96.46,
-    "change_pct": -5.84,
+    "previous_close": 96.09,
+    "change_pct": -5.47,
     "currency": "USD",
     "source": "yahoo_finance",
     "type": "WTI Crude Oil Futures",
