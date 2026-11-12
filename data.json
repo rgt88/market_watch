@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-12T14:54:31.585072+07:00",
+  "last_updated": "2026-11-13T00:16:54.688283+07:00",
   "usdidr": {
-    "value": 18175,
+    "value": 18253,
     "unit": "IDR",
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "source": "frankfurter.dev"
   },
   "ihsg": {
-    "value": 5208.09,
+    "value": 5250.9,
     "previous_close": 5050.429,
-    "change_pct": 3.12,
+    "change_pct": 3.97,
     "currency": "IDR",
     "source": "yahoo_finance"
   },
   "crude_oil": {
-    "value": 86.85,
+    "value": 87.0,
     "previous_close": 86.85,
-    "change_pct": 0.0,
+    "change_pct": 0.17,
     "currency": "USD",
     "source": "yahoo_finance",
     "type": "WTI Crude Oil Futures",
